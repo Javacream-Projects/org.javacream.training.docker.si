@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<parent>
 		<groupId>org.javacream.training.maven.parent</groupId>
-		<artifactId>org.javacream.training.maven.parent.java</artifactId>
+		<artifactId>org.javacream.training.maven.parent.docker</artifactId>
 		<version>1.0</version>
 	</parent>
 </project>
